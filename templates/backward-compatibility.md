@@ -18,7 +18,7 @@ Further restrictions (and/or allowances) might be added in the future.
 
 ## Semantic Versioning
 
-{library} follows [Semantic Versioning](https://semver.org/) (<major>.<minor>.<patch>). In general, this means that the version number is incremented based on the type of changes made:
+{library} follows [Semantic Versioning](https://semver.org/) (`<major>.<minor>.<patch>`). In general, this means that the version number is incremented based on the type of changes made:
 
 * Patch version for backward-compatible bug fixes.
 * Minor version for backward-compatible additions.
