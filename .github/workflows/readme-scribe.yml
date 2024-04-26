@@ -16,7 +16,7 @@ jobs:
           go-version: '1.16.1' # The Go version to download (if necessary) and use.
       - run: |
           go get github.com/muesli/markscribe
-          go build
+          go mod init
           markscribe -write README.md /templates/README.md.tpl
 
       - uses: stefanzweifel/git-auto-commit-action@v5
