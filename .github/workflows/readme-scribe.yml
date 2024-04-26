@@ -16,7 +16,7 @@ jobs:
           go-version: '1.16.1' # The Go version to download (if necessary) and use.
       - run: |
           go get github.com/muesli/markscribe
-          go mod init example.com/m
+          go mod init github.com/muesli/markscribe
           go mod tidy
           go install
           markscribe -write README.md /templates/README.md.tpl
