@@ -10,11 +10,11 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 
 #### 👷 Check out what I'm currently working on
 
-- [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) - LibrariesIO - A simple API wrapper/client for the Libraries.io API. (1 day ago)
-- [ericsizemore/clock](https://github.com/ericsizemore/clock) - Yet another clock abstraction, implementing PSR-20. (1 day ago)
-- [ericsizemore/api](https://github.com/ericsizemore/api) - A simple wrapper/builder using Guzzle for base API clients. (1 day ago)
-- [ericsizemore/utility](https://github.com/ericsizemore/utility) - Collection of various PHP utility functions. (3 days ago)
-- [phar-io/phar.io](https://github.com/phar-io/phar.io) - Website of the phar.io project (6 days ago)
+- [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) - LibrariesIO - A simple API wrapper/client for the Libraries.io API. (2 days ago)
+- [ericsizemore/clock](https://github.com/ericsizemore/clock) - Yet another clock abstraction, implementing PSR-20. (2 days ago)
+- [ericsizemore/api](https://github.com/ericsizemore/api) - A simple wrapper/builder using Guzzle for base API clients. (2 days ago)
+- [ericsizemore/utility](https://github.com/ericsizemore/utility) - Collection of various PHP utility functions. (4 days ago)
+- [phar-io/phar.io](https://github.com/phar-io/phar.io) - Website of the phar.io project (1 week ago)
 - [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) - A simple PHP counter that counts your website visitors. (3 weeks ago)
 - [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) - This class implements a simple template engine that works by replacing text. (1 month ago)
 - [ericsizemore/dpm](https://github.com/ericsizemore/dpm) -  (4 months ago)
