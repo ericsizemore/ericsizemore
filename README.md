@@ -10,6 +10,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 
 #### 👷 Check out what I'm currently working on
 
+- [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) - Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. (1 day ago)
 - [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) - LibrariesIO - A simple API wrapper/client for the Libraries.io API. (4 days ago)
 - [ericsizemore/clock](https://github.com/ericsizemore/clock) - Yet another clock abstraction, implementing PSR-20. (4 days ago)
 - [ericsizemore/api](https://github.com/ericsizemore/api) - A simple wrapper/builder using Guzzle for base API clients. (4 days ago)
@@ -24,6 +25,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 
 #### 🔭 Latest releases I've contributed to
 
+- [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) ([1.0.0](https://github.com/ericsizemore/phpunit-coverage-check-action/releases/tag/1.0.0), today) - Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action.
 - [ericsizemore/utility](https://github.com/ericsizemore/utility) ([v2.1.0](https://github.com/ericsizemore/utility/releases/tag/v2.1.0), 1 week ago) - Collection of various PHP utility functions.
 - [ericsizemore/clock](https://github.com/ericsizemore/clock) ([1.0.0](https://github.com/ericsizemore/clock/releases/tag/1.0.0), 3 weeks ago) - Yet another clock abstraction, implementing PSR-20.
 - [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) ([v1.1.1](https://github.com/ericsizemore/librariesio/releases/tag/v1.1.1), 1 month ago) - LibrariesIO - A simple API wrapper/client for the Libraries.io API.
