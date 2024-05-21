@@ -21,6 +21,30 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 - [ericsizemore/dpm](https://github.com/ericsizemore/dpm) -  (5 months ago)
 - [ericsizemore/simple_contact_form](https://github.com/ericsizemore/simple_contact_form) - A rather simple PHP contact form script that can be integrated into an existing site/design, or be used standalone. (5 months ago)
 
+#### 🌱 My latest projects
+
+- [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) - Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action.
+- [ericsizemore/clock](https://github.com/ericsizemore/clock) - Yet another clock abstraction, implementing PSR-20.
+- [ericsizemore/api](https://github.com/ericsizemore/api) - A simple wrapper/builder using Guzzle for base API clients.
+- [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) - LibrariesIO - A simple API wrapper/client for the Libraries.io API.
+- [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) - This class implements a simple template engine that works by replacing text.
+- [ericsizemore/utility](https://github.com/ericsizemore/utility) - Collection of various PHP utility functions.
+- [ericsizemore/dpm](https://github.com/ericsizemore/dpm) - 
+- [ericsizemore/simple_contact_form](https://github.com/ericsizemore/simple_contact_form) - A rather simple PHP contact form script that can be integrated into an existing site/design, or be used standalone.
+- [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) - A simple PHP counter that counts your website visitors.
+
+#### 🍴 My recent forks
+
+- [ericsizemore/evenement](https://github.com/ericsizemore/evenement) - Événement is a very simple event dispatching library for PHP.
+- [ericsizemore/phar.io](https://github.com/ericsizemore/phar.io) - Website of the phar.io project
+- [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) - Check the code coverage using the clover report of PHPUnit.
+- [ericsizemore/numverify-api-client-php](https://github.com/ericsizemore/numverify-api-client-php) - Numverify phone number validation and country API client library for PHP.
+- [ericsizemore/pagination](https://github.com/ericsizemore/pagination) - Simple pagination library for PHP implements a paging interface on collections of things.
+- [ericsizemore/startbootstrap-sb-admin](https://github.com/ericsizemore/startbootstrap-sb-admin) - A free, open source, Bootstrap admin theme created by Start Bootstrap
+- [ericsizemore/bench](https://github.com/ericsizemore/bench) - Micro PHP benchmark library
+- [ericsizemore/wildcard](https://github.com/ericsizemore/wildcard) - A simple wildcard matcher.
+- [ericsizemore/mimey](https://github.com/ericsizemore/mimey) - PHP package for converting file extensions to MIME types and vice versa.
+
 ---
 
 #### 🔭 Latest releases I've contributed to
@@ -32,6 +56,19 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 - [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) ([v1.1.1](https://github.com/ericsizemore/librariesio/releases/tag/v1.1.1), 2 months ago) - LibrariesIO - A simple API wrapper/client for the Libraries.io API.
 - [ericsizemore/api](https://github.com/ericsizemore/api) ([v1.0.0](https://github.com/ericsizemore/api/releases/tag/v1.0.0), 3 months ago) - A simple wrapper/builder using Guzzle for base API clients.
 - [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) ([v2.0.1](https://github.com/ericsizemore/simple_tpl/releases/tag/v2.0.1), 5 months ago) - This class implements a simple template engine that works by replacing text.
+
+#### 🔨 My recent Pull Requests
+
+- [Bring 6.x dev to master, as we are close to 6.0.0 release](https://github.com/ericsizemore/simple_counter/pull/16) on [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) (2 weeks ago)
+- [Update tests.yml](https://github.com/ericsizemore/utility/pull/17) on [ericsizemore/utility](https://github.com/ericsizemore/utility) (3 weeks ago)
+- [ci - Update tests.yml](https://github.com/ericsizemore/utility/pull/15) on [ericsizemore/utility](https://github.com/ericsizemore/utility) (3 weeks ago)
+- [Prepare 2.0.0](https://github.com/ericsizemore/phpunit-coverage-check/pull/22) on [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) (1 month ago)
+- [Increase PHP requirement to 8.1](https://github.com/igorw/evenement/pull/88) on [igorw/evenement](https://github.com/igorw/evenement) (1 month ago)
+- [Update tests.yml](https://github.com/ericsizemore/phpunit-coverage-check/pull/11) on [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) (1 month ago)
+- [Merge master](https://github.com/ericsizemore/simple_counter/pull/15) on [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) (1 month ago)
+- [Add support for phpunit-coverage-check](https://github.com/phar-io/phar.io/pull/150) on [phar-io/phar.io](https://github.com/phar-io/phar.io) (1 month ago)
+- [3.x](https://github.com/ericsizemore/bench/pull/14) on [ericsizemore/bench](https://github.com/ericsizemore/bench) (1 month ago)
+- [Update composer.lock](https://github.com/ericsizemore/bench/pull/10) on [ericsizemore/bench](https://github.com/ericsizemore/bench) (2 months ago)
 
 ---
 
