@@ -10,12 +10,12 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 
 #### 👷 Check out what I'm currently working on
 
-- [ericsizemore/utility](https://github.com/ericsizemore/utility) - Collection of various PHP utility functions. (3 days ago)
-- [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) - LibrariesIO - A simple API wrapper/client for the Libraries.io API. (4 days ago)
-- [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) - A simple PHP counter that counts your website visitors. (4 days ago)
-- [ericsizemore/clock](https://github.com/ericsizemore/clock) - Yet another clock abstraction, implementing PSR-20. (4 days ago)
-- [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) - This class implements a simple template engine that works by replacing text. (4 days ago)
-- [ericsizemore/api](https://github.com/ericsizemore/api) - A simple wrapper/builder using Guzzle for base API clients. (4 days ago)
+- [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) - A simple PHP counter that counts your website visitors. (1 day ago)
+- [ericsizemore/utility](https://github.com/ericsizemore/utility) - Collection of various PHP utility functions. (4 days ago)
+- [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) - LibrariesIO - A simple API wrapper/client for the Libraries.io API. (5 days ago)
+- [ericsizemore/clock](https://github.com/ericsizemore/clock) - Yet another clock abstraction, implementing PSR-20. (5 days ago)
+- [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) - This class implements a simple template engine that works by replacing text. (5 days ago)
+- [ericsizemore/api](https://github.com/ericsizemore/api) - A simple wrapper/builder using Guzzle for base API clients. (5 days ago)
 - [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) - Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. (1 week ago)
 - [phar-io/phar.io](https://github.com/phar-io/phar.io) - Website of the phar.io project (3 weeks ago)
 - [ericsizemore/dpm](https://github.com/ericsizemore/dpm) -  (5 months ago)
@@ -27,7 +27,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 
 - [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) ([v6.0.0](https://github.com/ericsizemore/simple_counter/releases/tag/v6.0.0), 2 weeks ago) - A simple PHP counter that counts your website visitors.
 - [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) ([1.0.0](https://github.com/ericsizemore/phpunit-coverage-check-action/releases/tag/1.0.0), 2 weeks ago) - Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action.
-- [ericsizemore/utility](https://github.com/ericsizemore/utility) ([v2.1.0](https://github.com/ericsizemore/utility/releases/tag/v2.1.0), 3 weeks ago) - Collection of various PHP utility functions.
+- [ericsizemore/utility](https://github.com/ericsizemore/utility) ([v2.1.0](https://github.com/ericsizemore/utility/releases/tag/v2.1.0), 4 weeks ago) - Collection of various PHP utility functions.
 - [ericsizemore/clock](https://github.com/ericsizemore/clock) ([1.0.0](https://github.com/ericsizemore/clock/releases/tag/1.0.0), 1 month ago) - Yet another clock abstraction, implementing PSR-20.
 - [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) ([v1.1.1](https://github.com/ericsizemore/librariesio/releases/tag/v1.1.1), 2 months ago) - LibrariesIO - A simple API wrapper/client for the Libraries.io API.
 - [ericsizemore/api](https://github.com/ericsizemore/api) ([v1.0.0](https://github.com/ericsizemore/api/releases/tag/v1.0.0), 3 months ago) - A simple wrapper/builder using Guzzle for base API clients.
