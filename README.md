@@ -59,6 +59,9 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 
 #### 🔨 My recent Pull Requests
 
+- [Create continuous-integration.yml](https://github.com/ericsizemore/api/pull/26) on [ericsizemore/api](https://github.com/ericsizemore/api) (today)
+- [Delete .github/workflows/tests.yml](https://github.com/ericsizemore/api/pull/25) on [ericsizemore/api](https://github.com/ericsizemore/api) (today)
+- [Delete .github/workflows/main.yml](https://github.com/ericsizemore/api/pull/24) on [ericsizemore/api](https://github.com/ericsizemore/api) (today)
 - [Bring 6.x dev to master, as we are close to 6.0.0 release](https://github.com/ericsizemore/simple_counter/pull/16) on [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) (3 weeks ago)
 - [Update tests.yml](https://github.com/ericsizemore/utility/pull/17) on [ericsizemore/utility](https://github.com/ericsizemore/utility) (1 month ago)
 - [ci - Update tests.yml](https://github.com/ericsizemore/utility/pull/15) on [ericsizemore/utility](https://github.com/ericsizemore/utility) (1 month ago)
@@ -66,9 +69,6 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 - [Increase PHP requirement to 8.1](https://github.com/igorw/evenement/pull/88) on [igorw/evenement](https://github.com/igorw/evenement) (1 month ago)
 - [Update tests.yml](https://github.com/ericsizemore/phpunit-coverage-check/pull/11) on [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) (1 month ago)
 - [Merge master](https://github.com/ericsizemore/simple_counter/pull/15) on [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) (1 month ago)
-- [Add support for phpunit-coverage-check](https://github.com/phar-io/phar.io/pull/150) on [phar-io/phar.io](https://github.com/phar-io/phar.io) (1 month ago)
-- [3.x](https://github.com/ericsizemore/bench/pull/14) on [ericsizemore/bench](https://github.com/ericsizemore/bench) (2 months ago)
-- [Update composer.lock](https://github.com/ericsizemore/bench/pull/10) on [ericsizemore/bench](https://github.com/ericsizemore/bench) (2 months ago)
 
 ---
 
