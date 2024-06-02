@@ -29,13 +29,13 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 ---
 
 #### 🔭 Latest releases I've contributed to
-| Repo | Tagged | Description |
+| Repo | Description | Last Release | 
 | --- | --- | --- |{{range recentReleases 10}}
-| [{{.Name}}]({{.URL}}) | ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}) {{humanize .LastRelease.PublishedAt}}) | {{.Description}} |
+| [{{.Name}}]({{.URL}}) | {{.Description}} | [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}}) |
 {{- end}}
 
 #### 🔨 My recent Pull Requests
-| Title | Repo/Description |
+| Title | Repo |
 | --- | --- |{{range recentPullRequests 10}}
 | [{{.Title}}]({{.URL}}) | [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}}) |
 {{- end}}
