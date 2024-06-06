@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+remote_theme: jekyll-theme-chirpy
 title: GitHub - Eric Sizemore
 description: The GitHub home of Eric Sizemore, aka SecondVersion.
 markdown: GFM
