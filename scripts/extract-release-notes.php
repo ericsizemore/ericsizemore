@@ -3,7 +3,7 @@
 
 declare(strict_types=1);
 
-if ($argc !== 3) {
+if ($argc !== 2) {
     fprintf(STDERR, '%s <tag>%s', $argv[0], PHP_EOL);
 
     exit(1);
