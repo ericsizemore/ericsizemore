@@ -15,10 +15,10 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | ⭐️ (23) [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. (today) |
 | ⭐️ (2) [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. (today) |
 | ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (today) |
+| ⭐️ (6) [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. (today) |
 | ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (3 days ago) |
 | ⭐️ (1) [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. (3 weeks ago) |
 | ⭐️ (0) [SecondVersion/.github](https://github.com/SecondVersion/.github) |  (4 weeks ago) |
-| ⭐️ (6) [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. (1 month ago) |
 | ⭐️ (1254) [igorw/evenement](https://github.com/igorw/evenement) | Événement is a very simple event dispatching library for PHP. (2 months ago) |
 | ⭐️ (45) [phar-io/phar.io](https://github.com/phar-io/phar.io) | Website of the phar.io project (3 months ago) |
 
@@ -64,6 +64,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🔨 My recent Pull Requests
 | Title | Repo |
 | --- | --- |
+| [fix: Update Client.php](https://github.com/ericsizemore/api/pull/83) | [ericsizemore/api](https://github.com/ericsizemore/api) (today) |
 | [Create continuous-integration.yml](https://github.com/ericsizemore/api/pull/26) | [ericsizemore/api](https://github.com/ericsizemore/api) (1 month ago) |
 | [Delete .github/workflows/tests.yml](https://github.com/ericsizemore/api/pull/25) | [ericsizemore/api](https://github.com/ericsizemore/api) (1 month ago) |
 | [Delete .github/workflows/main.yml](https://github.com/ericsizemore/api/pull/24) | [ericsizemore/api](https://github.com/ericsizemore/api) (1 month ago) |
@@ -73,7 +74,6 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | [Prepare 2.0.0](https://github.com/ericsizemore/phpunit-coverage-check/pull/22) | [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) (3 months ago) |
 | [Increase PHP requirement to 8.1](https://github.com/igorw/evenement/pull/88) | [igorw/evenement](https://github.com/igorw/evenement) (3 months ago) |
 | [Update tests.yml](https://github.com/ericsizemore/phpunit-coverage-check/pull/11) | [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) (3 months ago) |
-| [Merge master](https://github.com/ericsizemore/simple_counter/pull/15) | [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) (3 months ago) |
 
 ---
 
