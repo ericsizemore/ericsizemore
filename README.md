@@ -19,7 +19,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (1 week ago) |
 | ⭐️ (1) [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. (1 month ago) |
 | ⭐️ (0) [SecondVersion/.github](https://github.com/SecondVersion/.github) |  (1 month ago) |
-| ⭐️ (1255) [igorw/evenement](https://github.com/igorw/evenement) | Événement is a very simple event dispatching library for PHP. (2 months ago) |
+| ⭐️ (1256) [igorw/evenement](https://github.com/igorw/evenement) | Événement is a very simple event dispatching library for PHP. (2 months ago) |
 | ⭐️ (45) [phar-io/phar.io](https://github.com/phar-io/phar.io) | Website of the phar.io project (3 months ago) |
 
 #### 🌱 My latest projects
