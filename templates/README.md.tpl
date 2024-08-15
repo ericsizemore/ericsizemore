@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Eric Sizemore. A self-taught PHP Developer with roughly 17 years of experience. I took a long break around the time PHP 5.3 was release, and I am currently trying to get back up to snuff for PHP 8.2 onward. :)
+I'm Eric Sizemore. A self-taught PHP Developer with roughly 17 years of experience. I took a long break around the time PHP 5.3 was released, and I am currently trying to get back up to snuff for PHP 8.2 onward. :)
 
 I ocassionally blog about PHP and open source, but mostly randomness.  
 
