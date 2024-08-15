@@ -13,12 +13,12 @@ Further restrictions (and/or allowances) might be added in the future.
 | **Document Information** |            |
 |:-------------------------|:-----------|
 | **Effective Date**       | 03/18/2024 |
-| **Last Updated**         | 03/18/2024 |
-| **Version**              | 1.0.0      |
+| **Last Updated**         | 08/15/2024 |
+| **Version**              | 1.1.0      |
 
 ## Semantic Versioning
 
-{library} follows [Semantic Versioning](https://semver.org/) (`<major>.<minor>.<patch>`). In general, this means that the version number is incremented based on the type of changes made:
+This project follows [Semantic Versioning](https://semver.org/) (`<major>.<minor>.<patch>`). In general, this means that the version number is incremented based on the type of changes made:
 
 * Patch version for backward-compatible bug fixes.
 * Minor version for backward-compatible additions.
@@ -56,6 +56,14 @@ Backward compatibility can be ignored in security bug fixes or critical bugs. In
 
 They are meant for internal use only and should not be accessed by your own code. They are subject to change or removal even in minor or patch versions.
 
+#### Unreleased
+
+* Generally, any code found within a `*-dev*` branch is not covered by this backward compatibility promise.
+  * Normally, only major versions will be assigned their own `dev` branch.
+* Unreleased versions will be tagged with `[Unreleased]` in the `CHANGELOG.md`.
+
+See [Branches](#branches) for more information.
+
 #### Named Arguments
 
 [Named arguments](https://www.php.net/manual/en/functions.arguments.php#functions.named-arguments) are not covered by the backward compatibility (BC) promise. I may choose to rename method/function parameter names when necessary in order to improve the codebase.
@@ -80,17 +88,29 @@ They are meant for internal use only and should not be accessed by your own code
 
 ### Tags
 
-Tags in {library}'s Git repository are immutable. I do not change published tags to point to a different revision, for example.
+Tags in this project's Git repository are immutable. I do not change published tags to point to a different revision, for example.
 
 In very rare cases I may delete a tag in order to remove a broken release. The new release that fixes what was broken will always have a different tag than the one that was removed.
 
 ### Branches
 
-Branches in {library}'s Git repository are private implementation details. For example, I delete branches for versions of {library} that are no longer supported.
+Branches in this project's Git repository are private implementation details. For example, I delete branches for versions of this library that are no longer supported. In general:
+
+* The `main` branch will contain the currently released major version (and `<minor>` or `<patch>` versions that fall under it).
+* Previous major versions will be under a `<major>.x` branch.
+* `Next` or development code of a new major version will be under a `<major>.x-dev` branch.
+
+For example, let's say the latest released version of this project is 3.0.0, the last major version is 2, and the next major version is 4.
+
+* The `main` branch will be all version 3 code, which includes: 3.0.1, 3.1.0, 3.2.0, etc.
+* The previous major version, version 2, will be under `2.x` (which includes: 2.0.1, 2.1.0, 2.2.0, etc.).
+* The `Next` or development code for a new major version, version 4, will be in `4.x-dev`.
+  * Once v4.0.0 is officially released, it will be merged into `main` and the `4.x-dev` branch will be deleted.
+  * Which then makes version 3 the previous major version, so it would have a new branch created for it: `3.x`
 
 ## Updates
 
-I will keep the backward compatibility promise updated as {library} evolves and new use cases emerge. The effective date
+I will keep the backward compatibility promise updated as this project evolves and new use cases emerge. The last updated date and version of this document under `Document Information` at the beginning of this file will be updated if any changes are made.
 
 ## Acknowledgements
 
