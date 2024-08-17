@@ -38,6 +38,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🍴 My recent forks
 | Repo | Description |
 | --- | --- |
+| [ericsizemore/webmozart-assert](https://github.com/ericsizemore/webmozart-assert) | Assertions to validate method input/output with nice error messages. |
 | [ericsizemore/evenement](https://github.com/ericsizemore/evenement) | Événement is a very simple event dispatching library for PHP. |
 | [ericsizemore/phar.io](https://github.com/ericsizemore/phar.io) | Website of the phar.io project |
 | [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) | Check the code coverage using the clover report of PHPUnit. |
