@@ -11,15 +11,15 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 👷 Check out what I'm currently working on
 | Repo | Description |
 | --- | --- |
-| ⭐️ (3) [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) | LibrariesIO - A simple API wrapper/client for the Libraries.io API. (1 day ago) |
-| ⭐️ (23) [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. (1 day ago) |
-| ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (1 day ago) |
-| ⭐️ (2) [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. (1 day ago) |
+| ⭐️ (3) [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) | LibrariesIO - A simple API wrapper/client for the Libraries.io API. (2 days ago) |
+| ⭐️ (23) [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. (2 days ago) |
+| ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (2 days ago) |
+| ⭐️ (2) [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. (2 days ago) |
 | ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (1 week ago) |
-| ⭐️ (6) [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. (3 weeks ago) |
+| ⭐️ (6) [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. (4 weeks ago) |
 | ⭐️ (1) [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. (1 month ago) |
 | ⭐️ (0) [SecondVersion/.github](https://github.com/SecondVersion/.github) |  (1 month ago) |
-| ⭐️ (1258) [igorw/evenement](https://github.com/igorw/evenement) | Événement is a very simple event dispatching library for PHP. (3 months ago) |
+| ⭐️ (1259) [igorw/evenement](https://github.com/igorw/evenement) | Événement is a very simple event dispatching library for PHP. (3 months ago) |
 | ⭐️ (45) [phar-io/phar.io](https://github.com/phar-io/phar.io) | Website of the phar.io project (3 months ago) |
 
 #### 🌱 My latest projects
@@ -56,7 +56,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. | [1.0.1](https://github.com/ericsizemore/phpunit-coverage-check-action/releases/tag/1.0.1) (1 month ago) |
 | [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. | [v1.1.0](https://github.com/ericsizemore/api/releases/tag/v1.1.0) (3 months ago) |
 | [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. | [v6.0.0](https://github.com/ericsizemore/simple_counter/releases/tag/v6.0.0) (3 months ago) |
-| [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. | [v2.1.0](https://github.com/ericsizemore/utility/releases/tag/v2.1.0) (3 months ago) |
+| [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. | [v2.1.0](https://github.com/ericsizemore/utility/releases/tag/v2.1.0) (4 months ago) |
 | [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. | [1.0.0](https://github.com/ericsizemore/clock/releases/tag/1.0.0) (4 months ago) |
 | [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) | LibrariesIO - A simple API wrapper/client for the Libraries.io API. | [v1.1.1](https://github.com/ericsizemore/librariesio/releases/tag/v1.1.1) (5 months ago) |
 | [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. | [v2.0.1](https://github.com/ericsizemore/simple_tpl/releases/tag/v2.0.1) (8 months ago) |
@@ -64,7 +64,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🔨 My recent Pull Requests
 | Title | Repo |
 | --- | --- |
-| [fix: Update Client.php](https://github.com/ericsizemore/api/pull/83) | [ericsizemore/api](https://github.com/ericsizemore/api) (3 weeks ago) |
+| [fix: Update Client.php](https://github.com/ericsizemore/api/pull/83) | [ericsizemore/api](https://github.com/ericsizemore/api) (4 weeks ago) |
 | [Create continuous-integration.yml](https://github.com/ericsizemore/api/pull/26) | [ericsizemore/api](https://github.com/ericsizemore/api) (2 months ago) |
 | [Delete .github/workflows/tests.yml](https://github.com/ericsizemore/api/pull/25) | [ericsizemore/api](https://github.com/ericsizemore/api) (2 months ago) |
 | [Delete .github/workflows/main.yml](https://github.com/ericsizemore/api/pull/24) | [ericsizemore/api](https://github.com/ericsizemore/api) (2 months ago) |
