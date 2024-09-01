@@ -43,7 +43,6 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) | Check the code coverage using the clover report of PHPUnit. |
 | [ericsizemore/numverify-api-client-php](https://github.com/ericsizemore/numverify-api-client-php) | Numverify phone number validation and country API client library for PHP. |
 | [ericsizemore/pagination](https://github.com/ericsizemore/pagination) | Simple pagination library for PHP implements a paging interface on collections of things. |
-| [ericsizemore/startbootstrap-sb-admin](https://github.com/ericsizemore/startbootstrap-sb-admin) | A free, open source, Bootstrap admin theme created by Start Bootstrap |
 | [ericsizemore/bench](https://github.com/ericsizemore/bench) | Micro PHP benchmark library |
 | [ericsizemore/wildcard](https://github.com/ericsizemore/wildcard) | A simple wildcard matcher. |
 | [ericsizemore/mimey](https://github.com/ericsizemore/mimey) | PHP package for converting file extensions to MIME types and vice versa. |
