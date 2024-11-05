@@ -11,6 +11,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 👷 Check out what I'm currently working on
 | Repo | Description |
 | --- | --- |
+| ⭐️ (0) [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. (1 day ago) |
 | ⭐️ (22) [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. (1 day ago) |
 | ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (1 day ago) |
 | ⭐️ (2) [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. (6 days ago) |
@@ -20,11 +21,11 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | ⭐️ (1) [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. (4 months ago) |
 | ⭐️ (0) [SecondVersion/.github](https://github.com/SecondVersion/.github) |  (4 months ago) |
 | ⭐️ (1279) [igorw/evenement](https://github.com/igorw/evenement) | Événement is a very simple event dispatching library for PHP. (5 months ago) |
-| ⭐️ (45) [phar-io/phar.io](https://github.com/phar-io/phar.io) | Website of the phar.io project (6 months ago) |
 
 #### 🌱 My latest projects
 | Repo | Description |
 | --- | --- |
+| [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. |
 | [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. |
 | [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. |
 | [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. |
@@ -52,6 +53,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🔭 Latest releases I've contributed to
 | Repo | Description | Last Release | 
 | --- | --- | --- |
+| [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. | [v1.0.0](https://github.com/ericsizemore/php-project-template/releases/tag/v1.0.0) (today) |
 | [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. | [1.0.1](https://github.com/ericsizemore/phpunit-coverage-check-action/releases/tag/1.0.1) (4 months ago) |
 | [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. | [v1.1.0](https://github.com/ericsizemore/api/releases/tag/v1.1.0) (5 months ago) |
 | [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. | [v6.0.0](https://github.com/ericsizemore/simple_counter/releases/tag/v6.0.0) (6 months ago) |
