@@ -39,6 +39,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🍴 My recent forks
 | Repo | Description |
 | --- | --- |
+| [ericsizemore/tempest-framework](https://github.com/ericsizemore/tempest-framework) | The PHP framework that gets out of your way 🌊 |
 | [ericsizemore/evenement](https://github.com/ericsizemore/evenement) | Événement is a very simple event dispatching library for PHP. |
 | [ericsizemore/phar.io](https://github.com/ericsizemore/phar.io) | Website of the phar.io project |
 | [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) | Check the code coverage using the clover report of PHPUnit. |
@@ -65,6 +66,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🔨 My recent Pull Requests
 | Title | Repo |
 | --- | --- |
+| [ci: Add GitHub action to close stale issues/pull requests](https://github.com/tempestphp/tempest-framework/pull/682) | [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (today) |
 | [fix: Update Client.php](https://github.com/ericsizemore/api/pull/83) | [ericsizemore/api](https://github.com/ericsizemore/api) (3 months ago) |
 | [Create continuous-integration.yml](https://github.com/ericsizemore/api/pull/26) | [ericsizemore/api](https://github.com/ericsizemore/api) (5 months ago) |
 | [Delete .github/workflows/tests.yml](https://github.com/ericsizemore/api/pull/25) | [ericsizemore/api](https://github.com/ericsizemore/api) (5 months ago) |
@@ -74,7 +76,6 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | [ci - Update tests.yml](https://github.com/ericsizemore/utility/pull/15) | [ericsizemore/utility](https://github.com/ericsizemore/utility) (6 months ago) |
 | [Prepare 2.0.0](https://github.com/ericsizemore/phpunit-coverage-check/pull/22) | [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) (6 months ago) |
 | [Increase PHP requirement to 8.1](https://github.com/igorw/evenement/pull/88) | [igorw/evenement](https://github.com/igorw/evenement) (6 months ago) |
-| [Update tests.yml](https://github.com/ericsizemore/phpunit-coverage-check/pull/11) | [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) (7 months ago) |
 
 ---
 
