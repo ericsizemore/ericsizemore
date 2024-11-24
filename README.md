@@ -20,7 +20,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | ⭐️ (6) [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. (1 week ago) |
 | ⭐️ (2) [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. (1 week ago) |
 | ⭐️ (0) [SecondVersion/.github](https://github.com/SecondVersion/.github) |  (5 months ago) |
-| ⭐️ (1282) [igorw/evenement](https://github.com/igorw/evenement) | Événement is a very simple event dispatching library for PHP. (6 months ago) |
+| ⭐️ (1283) [igorw/evenement](https://github.com/igorw/evenement) | Événement is a very simple event dispatching library for PHP. (6 months ago) |
 
 #### 🌱 My latest projects
 | Repo | Description |
