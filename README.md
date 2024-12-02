@@ -12,8 +12,8 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | Repo | Description |
 | --- | --- |
 | ⭐️ (23) [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. (1 day ago) |
+| ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (1 day ago) |
 | ⭐️ (3) [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) | LibrariesIO - A simple API wrapper/client for the Libraries.io API. (1 day ago) |
-| ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (3 days ago) |
 | ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (3 days ago) |
 | ⭐️ (2) [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. (3 days ago) |
 | ⭐️ (6) [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. (3 days ago) |
@@ -39,7 +39,6 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🍴 My recent forks
 | Repo | Description |
 | --- | --- |
-| [ericsizemore/recaptcha](https://github.com/ericsizemore/recaptcha) | PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse. |
 | [ericsizemore/evenement](https://github.com/ericsizemore/evenement) | Événement is a very simple event dispatching library for PHP. |
 | [ericsizemore/phar.io](https://github.com/ericsizemore/phar.io) | Website of the phar.io project |
 | [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) | Check the code coverage using the clover report of PHPUnit. |
