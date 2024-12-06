@@ -19,8 +19,8 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | ⭐️ (6) [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. (3 days ago) |
 | ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (3 days ago) |
 | ⭐️ (2) [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. (3 days ago) |
-| ⭐️ (31059) [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. (3 days ago) |
-| ⭐️ (1163) [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) | The PHP framework that gets out of your way 🌊 (1 week ago) |
+| ⭐️ (31060) [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. (3 days ago) |
+| ⭐️ (1165) [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) | The PHP framework that gets out of your way 🌊 (1 week ago) |
 
 #### 🌱 My latest projects
 | Repo | Description |
