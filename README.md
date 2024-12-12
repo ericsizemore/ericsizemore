@@ -19,7 +19,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | ⭐️ (1) [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. (1 week ago) |
 | ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (1 week ago) |
 | ⭐️ (2) [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. (1 week ago) |
-| ⭐️ (31073) [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. (1 week ago) |
+| ⭐️ (31072) [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. (1 week ago) |
 | ⭐️ (1174) [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) | The PHP framework that gets out of your way 🌊 (2 weeks ago) |
 
 #### 🌱 My latest projects
