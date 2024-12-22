@@ -68,6 +68,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🔨 My recent Pull Requests
 | Title | Repo |
 | --- | --- |
+| [chore(docs): update readme to fix the 'badge poser' images](https://github.com/igorw/evenement/pull/89) | [igorw/evenement](https://github.com/igorw/evenement) (today) |
 | [ci: Update awesomebot.yml to use upload-artifact v4](https://github.com/ziadoz/awesome-php/pull/1320) | [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) (2 weeks ago) |
 | [ci: close stale issues and pull requests](https://github.com/tempestphp/tempest-framework/pull/682) | [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (1 month ago) |
 | [fix: Update Client.php](https://github.com/ericsizemore/api/pull/83) | [ericsizemore/api](https://github.com/ericsizemore/api) (5 months ago) |
@@ -77,7 +78,6 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | [Bring 6.x dev to master, as we are close to 6.0.0 release](https://github.com/ericsizemore/simple_counter/pull/16) | [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) (7 months ago) |
 | [Update tests.yml](https://github.com/ericsizemore/utility/pull/17) | [ericsizemore/utility](https://github.com/ericsizemore/utility) (7 months ago) |
 | [ci - Update tests.yml](https://github.com/ericsizemore/utility/pull/15) | [ericsizemore/utility](https://github.com/ericsizemore/utility) (8 months ago) |
-| [Prepare 2.0.0](https://github.com/ericsizemore/phpunit-coverage-check/pull/22) | [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) (8 months ago) |
 
 ---
 
