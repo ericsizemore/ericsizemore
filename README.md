@@ -11,7 +11,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 👷 Check out what I'm currently working on
 | Repo | Description |
 | --- | --- |
-| ⭐️ (0) [ericsizemore/cloudflare-turnstile](https://github.com/ericsizemore/cloudflare-turnstile) |  (today) |
+| ⭐️ (0) [ericsizemore/cloudflare-turnstile](https://github.com/ericsizemore/cloudflare-turnstile) | A PHP library for server-side validation of Cloudflare Turnstile challenges. This library is PSR-18 compatible and framework-agnostic. (today) |
 | ⭐️ (23) [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. (2 days ago) |
 | ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (2 days ago) |
 | ⭐️ (2) [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. (2 days ago) |
@@ -20,12 +20,12 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (1 week ago) |
 | ⭐️ (6) [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. (1 week ago) |
 | ⭐️ (1) [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. (1 week ago) |
-| ⭐️ (31103) [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. (3 weeks ago) |
+| ⭐️ (31104) [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. (3 weeks ago) |
 
 #### 🌱 My latest projects
 | Repo | Description |
 | --- | --- |
-| [ericsizemore/cloudflare-turnstile](https://github.com/ericsizemore/cloudflare-turnstile) |  |
+| [ericsizemore/cloudflare-turnstile](https://github.com/ericsizemore/cloudflare-turnstile) | A PHP library for server-side validation of Cloudflare Turnstile challenges. This library is PSR-18 compatible and framework-agnostic. |
 | [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. |
 | [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. |
 | [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. |
