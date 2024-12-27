@@ -20,7 +20,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (1 week ago) |
 | ⭐️ (6) [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. (1 week ago) |
 | ⭐️ (1) [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. (1 week ago) |
-| ⭐️ (31118) [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. (3 weeks ago) |
+| ⭐️ (31119) [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. (3 weeks ago) |
 
 #### 🌱 My latest projects
 | Repo | Description |
