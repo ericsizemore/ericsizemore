@@ -11,11 +11,11 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 👷 Check out what I'm currently working on
 | Repo | Description |
 | --- | --- |
-| ⭐️ (3) [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) | LibrariesIO - A simple API wrapper/client for the Libraries.io API. (today) |
-| ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (today) |
-| ⭐️ (2) [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. (today) |
-| ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (today) |
-| ⭐️ (24) [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. (today) |
+| ⭐️ (3) [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) | LibrariesIO - A simple API wrapper/client for the Libraries.io API. (1 day ago) |
+| ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (1 day ago) |
+| ⭐️ (2) [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. (1 day ago) |
+| ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (1 day ago) |
+| ⭐️ (24) [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. (1 day ago) |
 | ⭐️ (0) [ericsizemore/cloudflare-turnstile](https://github.com/ericsizemore/cloudflare-turnstile) | A PHP library for server-side validation of Cloudflare Turnstile challenges. This library is PSR-18 compatible and framework-agnostic. (3 weeks ago) |
 | ⭐️ (1300) [igorw/evenement](https://github.com/igorw/evenement) | Événement is a very simple event dispatching library for PHP. (4 weeks ago) |
 | ⭐️ (2) [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. (1 month ago) |
@@ -71,7 +71,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | [chore(docs): update readme to fix the 'badge poser' images](https://github.com/igorw/evenement/pull/89) | [igorw/evenement](https://github.com/igorw/evenement) (4 weeks ago) |
 | [ci: Update awesomebot.yml to use upload-artifact v4](https://github.com/ziadoz/awesome-php/pull/1320) | [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) (1 month ago) |
 | [ci: close stale issues and pull requests](https://github.com/tempestphp/tempest-framework/pull/682) | [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (2 months ago) |
-| [fix: Update Client.php](https://github.com/ericsizemore/api/pull/83) | [ericsizemore/api](https://github.com/ericsizemore/api) (5 months ago) |
+| [fix: Update Client.php](https://github.com/ericsizemore/api/pull/83) | [ericsizemore/api](https://github.com/ericsizemore/api) (6 months ago) |
 | [Create continuous-integration.yml](https://github.com/ericsizemore/api/pull/26) | [ericsizemore/api](https://github.com/ericsizemore/api) (7 months ago) |
 | [Delete .github/workflows/tests.yml](https://github.com/ericsizemore/api/pull/25) | [ericsizemore/api](https://github.com/ericsizemore/api) (7 months ago) |
 | [Delete .github/workflows/main.yml](https://github.com/ericsizemore/api/pull/24) | [ericsizemore/api](https://github.com/ericsizemore/api) (7 months ago) |
