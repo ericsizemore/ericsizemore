@@ -11,7 +11,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 👷 Check out what I'm currently working on
 | Repo | Description |
 | --- | --- |
-| ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (1 day ago) |
+| ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (today) |
 | ⭐️ (2) [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. (2 days ago) |
 | ⭐️ (3) [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) | LibrariesIO - A simple API wrapper/client for the Libraries.io API. (4 days ago) |
 | ⭐️ (24) [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. (4 days ago) |
@@ -68,6 +68,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🔨 My recent Pull Requests
 | Title | Repo |
 | --- | --- |
+| [feat: add storage interface and support for file or db based templates](https://github.com/ericsizemore/simple_tpl/pull/144) | [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) (today) |
 | [chore(docs): update readme to fix the 'badge poser' images](https://github.com/igorw/evenement/pull/89) | [igorw/evenement](https://github.com/igorw/evenement) (1 month ago) |
 | [ci: Update awesomebot.yml to use upload-artifact v4](https://github.com/ziadoz/awesome-php/pull/1320) | [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) (1 month ago) |
 | [ci: close stale issues and pull requests](https://github.com/tempestphp/tempest-framework/pull/682) | [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (2 months ago) |
@@ -77,7 +78,6 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | [Delete .github/workflows/main.yml](https://github.com/ericsizemore/api/pull/24) | [ericsizemore/api](https://github.com/ericsizemore/api) (8 months ago) |
 | [Bring 6.x dev to master, as we are close to 6.0.0 release](https://github.com/ericsizemore/simple_counter/pull/16) | [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) (8 months ago) |
 | [Update tests.yml](https://github.com/ericsizemore/utility/pull/17) | [ericsizemore/utility](https://github.com/ericsizemore/utility) (9 months ago) |
-| [ci - Update tests.yml](https://github.com/ericsizemore/utility/pull/15) | [ericsizemore/utility](https://github.com/ericsizemore/utility) (9 months ago) |
 
 ---
 
