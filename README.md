@@ -39,6 +39,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🍴 My recent forks
 | Repo | Description |
 | --- | --- |
+| [ericsizemore/container](https://github.com/ericsizemore/container) | Small but powerful dependency injection container |
 | [ericsizemore/awesome-php](https://github.com/ericsizemore/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. |
 | [ericsizemore/consistent-hash](https://github.com/ericsizemore/consistent-hash) | ConsistentHash is a small library which implements consistent hashing. Modernized fork of flexihash/flexihash. |
 | [ericsizemore/evenement](https://github.com/ericsizemore/evenement) | Événement is a very simple event dispatching library for PHP. |
@@ -48,7 +49,6 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | [ericsizemore/pagination](https://github.com/ericsizemore/pagination) | Simple pagination library for PHP implements a paging interface on collections of things. |
 | [ericsizemore/bench](https://github.com/ericsizemore/bench) | Micro PHP benchmark library |
 | [ericsizemore/wildcard](https://github.com/ericsizemore/wildcard) | A simple wildcard matcher. |
-| [ericsizemore/mimey](https://github.com/ericsizemore/mimey) | PHP package for converting file extensions to MIME types and vice versa. |
 
 ---
 
