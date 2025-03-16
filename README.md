@@ -11,10 +11,10 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 👷 Check out what I'm currently working on
 | Repo | Description |
 | --- | --- |
+| ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (today) |
 | ⭐️ (25) [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. (3 days ago) |
 | ⭐️ (3) [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) | LibrariesIO - A simple API wrapper/client for the Libraries.io API. (3 days ago) |
 | ⭐️ (2) [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. (3 days ago) |
-| ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (3 days ago) |
 | ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (1 month ago) |
 | ⭐️ (0) [ericsizemore/cloudflare-turnstile](https://github.com/ericsizemore/cloudflare-turnstile) | A PHP library for server-side validation of Cloudflare Turnstile challenges. This library is PSR-18 compatible and framework-agnostic. (2 months ago) |
 | ⭐️ (1307) [igorw/evenement](https://github.com/igorw/evenement) | Événement is a very simple event dispatching library for PHP. (2 months ago) |
