@@ -55,7 +55,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🔭 Latest releases I've contributed to
 | Repo | Description | Last Release | 
 | --- | --- | --- |
-| [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) | The PHP framework that gets out of your way | [v1.0.3](https://github.com/tempestphp/tempest-framework/releases/tag/v1.0.3) (3 days ago) |
+| [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) | The PHP framework that gets out of your way | [v1.0.3](https://github.com/tempestphp/tempest-framework/releases/tag/v1.0.3) (4 days ago) |
 | [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. | [v2.2.0](https://github.com/ericsizemore/utility/releases/tag/v2.2.0) (5 months ago) |
 | [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. | [v1.1.0](https://github.com/ericsizemore/php-project-template/releases/tag/v1.1.0) (6 months ago) |
 | [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. | [2.0.0](https://github.com/ericsizemore/phpunit-coverage-check-action/releases/tag/2.0.0) (6 months ago) |
@@ -71,7 +71,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | [feat: add storage interface and support for file or db based templates](https://github.com/ericsizemore/simple_tpl/pull/144) | [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) (5 months ago) |
 | [chore(docs): update readme to fix the 'badge poser' images](https://github.com/igorw/evenement/pull/89) | [igorw/evenement](https://github.com/igorw/evenement) (6 months ago) |
 | [ci: Update awesomebot.yml to use upload-artifact v4](https://github.com/ziadoz/awesome-php/pull/1320) | [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) (7 months ago) |
-| [ci: close stale issues and pull requests](https://github.com/tempestphp/tempest-framework/pull/682) | [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (7 months ago) |
+| [ci: close stale issues and pull requests](https://github.com/tempestphp/tempest-framework/pull/682) | [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (8 months ago) |
 | [fix: Update Client.php](https://github.com/ericsizemore/api/pull/83) | [ericsizemore/api](https://github.com/ericsizemore/api) (11 months ago) |
 | [Create continuous-integration.yml](https://github.com/ericsizemore/api/pull/26) | [ericsizemore/api](https://github.com/ericsizemore/api) (1 year ago) |
 | [Delete .github/workflows/tests.yml](https://github.com/ericsizemore/api/pull/25) | [ericsizemore/api](https://github.com/ericsizemore/api) (1 year ago) |
