@@ -55,8 +55,8 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🔭 Latest releases I've contributed to
 | Repo | Description | Last Release | 
 | --- | --- | --- |
+| [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) | The PHP framework that gets out of your way | [v1.6.0](https://github.com/tempestphp/tempest-framework/releases/tag/v1.6.0) (today) |
 | [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. | [v2.0.0](https://github.com/ericsizemore/php-project-template/releases/tag/v2.0.0) (3 days ago) |
-| [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) | The PHP framework that gets out of your way | [v1.5.1](https://github.com/tempestphp/tempest-framework/releases/tag/v1.5.1) (1 week ago) |
 | [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. | [v2.2.0](https://github.com/ericsizemore/utility/releases/tag/v2.2.0) (6 months ago) |
 | [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. | [2.0.0](https://github.com/ericsizemore/phpunit-coverage-check-action/releases/tag/2.0.0) (7 months ago) |
 | [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. | [1.1.0](https://github.com/ericsizemore/clock/releases/tag/1.1.0) (8 months ago) |
