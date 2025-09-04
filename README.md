@@ -18,11 +18,11 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 👷 Check out what I'm currently working on
 | Repo | Description |
 | --- | --- |
-| ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (6 days ago) |
-| ⭐️ (3) [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) | LibrariesIO - A simple API wrapper/client for the Libraries.io API. (6 days ago) |
-| ⭐️ (0) [ericsizemore/cloudflare-turnstile](https://github.com/ericsizemore/cloudflare-turnstile) | A PHP library for server-side validation of Cloudflare Turnstile challenges. This library is PSR-18 compatible and framework-agnostic. (6 days ago) |
-| ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (6 days ago) |
-| ⭐️ (3) [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. (6 days ago) |
+| ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (1 week ago) |
+| ⭐️ (3) [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) | LibrariesIO - A simple API wrapper/client for the Libraries.io API. (1 week ago) |
+| ⭐️ (0) [ericsizemore/cloudflare-turnstile](https://github.com/ericsizemore/cloudflare-turnstile) | A PHP library for server-side validation of Cloudflare Turnstile challenges. This library is PSR-18 compatible and framework-agnostic. (1 week ago) |
+| ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (1 week ago) |
+| ⭐️ (3) [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. (1 week ago) |
 | ⭐️ (2) [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. (1 week ago) |
 | ⭐️ (25) [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. (1 week ago) |
 | ⭐️ (1) [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. (3 weeks ago) |
@@ -63,7 +63,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | Repo | Description | Last Release | 
 | --- | --- | --- |
 | [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) | The PHP framework that gets out of your way | [v1.6.0](https://github.com/tempestphp/tempest-framework/releases/tag/v1.6.0) (3 weeks ago) |
-| [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. | [v2.0.0](https://github.com/ericsizemore/php-project-template/releases/tag/v2.0.0) (4 weeks ago) |
+| [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. | [v2.0.0](https://github.com/ericsizemore/php-project-template/releases/tag/v2.0.0) (1 month ago) |
 | [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. | [v2.2.0](https://github.com/ericsizemore/utility/releases/tag/v2.2.0) (7 months ago) |
 | [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. | [2.0.0](https://github.com/ericsizemore/phpunit-coverage-check-action/releases/tag/2.0.0) (8 months ago) |
 | [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. | [1.1.0](https://github.com/ericsizemore/clock/releases/tag/1.1.0) (9 months ago) |
