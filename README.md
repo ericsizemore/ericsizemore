@@ -6,13 +6,6 @@ I'm Eric Sizemore. A self-taught PHP Developer with roughly 17 years of experien
 
 I ocassionally blog about PHP and open source, but mostly randomness.  
 
-> [!IMPORTANT]
-> On Hiatus, 08/28/2025
->
-> I'll be taking some time away from all of my open source projects.
-> It seems JetBrains has no interest in extending my open source license, due to changes in their program.
-> So I will have to figure out a different IDE/editor moving forward, when my health allows.
-
 ---
 
 #### 👷 Check out what I'm currently working on
