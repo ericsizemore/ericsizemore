@@ -68,6 +68,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🔨 My recent Pull Requests
 | Title | Repo |
 | --- | --- |
+| [Update Dates.php](https://github.com/ericsizemore/utility/pull/275) | [ericsizemore/utility](https://github.com/ericsizemore/utility) (today) |
 | [feat: add storage interface and support for file or db based templates](https://github.com/ericsizemore/simple_tpl/pull/144) | [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) (8 months ago) |
 | [chore(docs): update readme to fix the 'badge poser' images](https://github.com/igorw/evenement/pull/89) | [igorw/evenement](https://github.com/igorw/evenement) (9 months ago) |
 | [ci: Update awesomebot.yml to use upload-artifact v4](https://github.com/ziadoz/awesome-php/pull/1320) | [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) (9 months ago) |
@@ -77,7 +78,6 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | [Delete .github/workflows/tests.yml](https://github.com/ericsizemore/api/pull/25) | [ericsizemore/api](https://github.com/ericsizemore/api) (1 year ago) |
 | [Delete .github/workflows/main.yml](https://github.com/ericsizemore/api/pull/24) | [ericsizemore/api](https://github.com/ericsizemore/api) (1 year ago) |
 | [Bring 6.x dev to master, as we are close to 6.0.0 release](https://github.com/ericsizemore/simple_counter/pull/16) | [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) (1 year ago) |
-| [Update tests.yml](https://github.com/ericsizemore/utility/pull/17) | [ericsizemore/utility](https://github.com/ericsizemore/utility) (1 year ago) |
 
 ---
 
