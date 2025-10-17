@@ -11,11 +11,11 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 👷 Check out what I'm currently working on
 | Repo | Description |
 | --- | --- |
-| ⭐️ (2) [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. (2 days ago) |
-| ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (2 days ago) |
-| ⭐️ (3) [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) | LibrariesIO - A simple API wrapper/client for the Libraries.io API. (6 days ago) |
-| ⭐️ (25) [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. (6 days ago) |
-| ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (2 weeks ago) |
+| ⭐️ (2) [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. (3 days ago) |
+| ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (3 days ago) |
+| ⭐️ (3) [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) | LibrariesIO - A simple API wrapper/client for the Libraries.io API. (1 week ago) |
+| ⭐️ (25) [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. (1 week ago) |
+| ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (3 weeks ago) |
 | ⭐️ (0) [ericsizemore/ipquery-php](https://github.com/ericsizemore/ipquery-php) | PHP library for ipquery.io, a free and performant ip address API. (1 month ago) |
 | ⭐️ (1) [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. (1 month ago) |
 | ⭐️ (3) [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. (1 month ago) |
@@ -68,8 +68,8 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🔨 My recent Pull Requests
 | Title | Repo |
 | --- | --- |
-| [Update FormatterTrait.php](https://github.com/ericsizemore/simple_counter/pull/235) | [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) (2 weeks ago) |
-| [Update Dates.php](https://github.com/ericsizemore/utility/pull/275) | [ericsizemore/utility](https://github.com/ericsizemore/utility) (2 weeks ago) |
+| [Update FormatterTrait.php](https://github.com/ericsizemore/simple_counter/pull/235) | [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) (3 weeks ago) |
+| [Update Dates.php](https://github.com/ericsizemore/utility/pull/275) | [ericsizemore/utility](https://github.com/ericsizemore/utility) (3 weeks ago) |
 | [feat: add storage interface and support for file or db based templates](https://github.com/ericsizemore/simple_tpl/pull/144) | [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) (8 months ago) |
 | [chore(docs): update readme to fix the 'badge poser' images](https://github.com/igorw/evenement/pull/89) | [igorw/evenement](https://github.com/igorw/evenement) (9 months ago) |
 | [ci: Update awesomebot.yml to use upload-artifact v4](https://github.com/ziadoz/awesome-php/pull/1320) | [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) (10 months ago) |
