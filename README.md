@@ -39,6 +39,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🍴 My recent forks
 | Repo | Description |
 | --- | --- |
+| [ericsizemore/svg-sanitizer](https://github.com/ericsizemore/svg-sanitizer) | A PHP SVG/XML Sanitizer |
 | [ericsizemore/container](https://github.com/ericsizemore/container) | Small but powerful dependency injection container |
 | [ericsizemore/awesome-php](https://github.com/ericsizemore/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. |
 | [ericsizemore/consistent-hash](https://github.com/ericsizemore/consistent-hash) | ConsistentHash is a small library which implements consistent hashing. Modernized fork of flexihash/flexihash. |
@@ -48,7 +49,6 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | [ericsizemore/numverify-api-client-php](https://github.com/ericsizemore/numverify-api-client-php) | Numverify phone number validation and country API client library for PHP. |
 | [ericsizemore/pagination](https://github.com/ericsizemore/pagination) | Simple pagination library for PHP implements a paging interface on collections of things. |
 | [ericsizemore/bench](https://github.com/ericsizemore/bench) | Micro PHP benchmark library |
-| [ericsizemore/wildcard](https://github.com/ericsizemore/wildcard) | A simple wildcard matcher. |
 
 ---
 
