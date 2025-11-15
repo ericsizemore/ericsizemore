@@ -20,7 +20,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | ⭐️ (0) [ericsizemore/ipquery-php](https://github.com/ericsizemore/ipquery-php) | PHP library for ipquery.io, a free and performant ip address API. (2 months ago) |
 | ⭐️ (1) [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. (2 months ago) |
 | ⭐️ (3) [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. (2 months ago) |
-| ⭐️ (1332) [igorw/evenement](https://github.com/igorw/evenement) | Événement is a very simple event dispatching library for PHP. (10 months ago) |
+| ⭐️ (1333) [igorw/evenement](https://github.com/igorw/evenement) | Événement is a very simple event dispatching library for PHP. (10 months ago) |
 
 #### 🌱 My latest projects
 | Repo | Description |
