@@ -20,7 +20,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (4 weeks ago) |
 | ⭐️ (0) [ericsizemore/ipquery-php](https://github.com/ericsizemore/ipquery-php) | PHP library for ipquery.io, a free and performant ip address API. (4 weeks ago) |
 | ⭐️ (1) [ericsizemore/cloudflare-turnstile](https://github.com/ericsizemore/cloudflare-turnstile) | A PHP library for server-side validation of Cloudflare Turnstile challenges. This library is PSR-18 compatible and framework-agnostic. (4 weeks ago) |
-| ⭐️ (1334) [igorw/evenement](https://github.com/igorw/evenement) | Événement is a very simple event dispatching library for PHP. (11 months ago) |
+| ⭐️ (1335) [igorw/evenement](https://github.com/igorw/evenement) | Événement is a very simple event dispatching library for PHP. (11 months ago) |
 
 #### 🌱 My latest projects
 | Repo | Description |
