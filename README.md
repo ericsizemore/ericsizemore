@@ -11,6 +11,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 👷 Check out what I'm currently working on
 | Repo | Description |
 | --- | --- |
+| ⭐️ (6) [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. (today) |
 | ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (2 days ago) |
 | ⭐️ (2) [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. (2 days ago) |
 | ⭐️ (3) [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) | LibrariesIO - A simple API wrapper/client for the Libraries.io API. (2 days ago) |
@@ -58,6 +59,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. | [v2.2.0](https://github.com/ericsizemore/utility/releases/tag/v2.2.0) (1 year ago) |
 | [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. | [2.0.0](https://github.com/ericsizemore/phpunit-coverage-check-action/releases/tag/2.0.0) (1 year ago) |
 | [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. | [1.1.0](https://github.com/ericsizemore/clock/releases/tag/1.1.0) (1 year ago) |
+| [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. | [v1.1.0](https://github.com/ericsizemore/api/releases/tag/v1.1.0) (2 years ago) |
 | [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. | [v6.0.0](https://github.com/ericsizemore/simple_counter/releases/tag/v6.0.0) (2 years ago) |
 | [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) | LibrariesIO - A simple API wrapper/client for the Libraries.io API. | [v1.1.1](https://github.com/ericsizemore/librariesio/releases/tag/v1.1.1) (2 years ago) |
 | [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. | [v2.0.1](https://github.com/ericsizemore/simple_tpl/releases/tag/v2.0.1) (2 years ago) |
