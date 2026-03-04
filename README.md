@@ -39,6 +39,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🍴 My recent forks
 | Repo | Description |
 | --- | --- |
+| [ericsizemore/colors.php](https://github.com/ericsizemore/colors.php) | An easy way to add colors in your CLI scripts. |
 | [ericsizemore/svg-sanitizer](https://github.com/ericsizemore/svg-sanitizer) | A PHP SVG/XML Sanitizer |
 | [ericsizemore/container](https://github.com/ericsizemore/container) | Small but powerful dependency injection container |
 | [ericsizemore/awesome-php](https://github.com/ericsizemore/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. |
@@ -48,7 +49,6 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) | Check the code coverage using the clover report of PHPUnit. |
 | [ericsizemore/numverify-api-client-php](https://github.com/ericsizemore/numverify-api-client-php) | Numverify phone number validation and country API client library for PHP. |
 | [ericsizemore/pagination](https://github.com/ericsizemore/pagination) | Simple pagination library for PHP implements a paging interface on collections of things. |
-| [ericsizemore/bench](https://github.com/ericsizemore/bench) | Micro PHP benchmark library |
 
 ---
 
