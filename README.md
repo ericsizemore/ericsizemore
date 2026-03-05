@@ -11,16 +11,16 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 👷 Check out what I'm currently working on
 | Repo | Description |
 | --- | --- |
-| ⭐️ (3) [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) | LibrariesIO - A simple API wrapper/client for the Libraries.io API. (2 days ago) |
-| ⭐️ (2) [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. (2 days ago) |
-| ⭐️ (25) [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. (2 days ago) |
-| ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (5 days ago) |
-| ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (5 days ago) |
-| ⭐️ (1) [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. (6 days ago) |
-| ⭐️ (3) [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. (6 days ago) |
+| ⭐️ (3) [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) | LibrariesIO - A simple API wrapper/client for the Libraries.io API. (3 days ago) |
+| ⭐️ (2) [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. (3 days ago) |
+| ⭐️ (25) [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. (3 days ago) |
+| ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (6 days ago) |
+| ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (6 days ago) |
+| ⭐️ (1) [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. (1 week ago) |
+| ⭐️ (3) [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. (1 week ago) |
 | ⭐️ (0) [ericsizemore/ipquery-php](https://github.com/ericsizemore/ipquery-php) | PHP library for ipquery.io, a free and performant ip address API. (1 week ago) |
-| ⭐️ (1) [ericsizemore/cloudflare-turnstile](https://github.com/ericsizemore/cloudflare-turnstile) | A PHP library for server-side validation of Cloudflare Turnstile challenges. This library is PSR-18 compatible and framework-agnostic. (4 weeks ago) |
-| ⭐️ (6) [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. (4 weeks ago) |
+| ⭐️ (1) [ericsizemore/cloudflare-turnstile](https://github.com/ericsizemore/cloudflare-turnstile) | A PHP library for server-side validation of Cloudflare Turnstile challenges. This library is PSR-18 compatible and framework-agnostic. (1 month ago) |
+| ⭐️ (6) [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. (1 month ago) |
 
 #### 🌱 My latest projects
 | Repo | Description |
@@ -39,7 +39,6 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🍴 My recent forks
 | Repo | Description |
 | --- | --- |
-| [ericsizemore/colors.php](https://github.com/ericsizemore/colors.php) | An easy way to add colors in your CLI scripts. |
 | [ericsizemore/svg-sanitizer](https://github.com/ericsizemore/svg-sanitizer) | A PHP SVG/XML Sanitizer |
 | [ericsizemore/container](https://github.com/ericsizemore/container) | Small but powerful dependency injection container |
 | [ericsizemore/awesome-php](https://github.com/ericsizemore/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. |
@@ -49,14 +48,15 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | [ericsizemore/phpunit-coverage-check](https://github.com/ericsizemore/phpunit-coverage-check) | Check the code coverage using the clover report of PHPUnit. |
 | [ericsizemore/numverify-api-client-php](https://github.com/ericsizemore/numverify-api-client-php) | Numverify phone number validation and country API client library for PHP. |
 | [ericsizemore/pagination](https://github.com/ericsizemore/pagination) | Simple pagination library for PHP implements a paging interface on collections of things. |
+| [ericsizemore/bench](https://github.com/ericsizemore/bench) | Micro PHP benchmark library |
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 | Repo | Description | Last Release | 
 | --- | --- | --- |
-| [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. | [v2.2.2](https://github.com/ericsizemore/utility/releases/tag/v2.2.2) (5 days ago) |
-| [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. | [v3.0.1](https://github.com/ericsizemore/php-project-template/releases/tag/v3.0.1) (5 days ago) |
+| [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. | [v2.2.2](https://github.com/ericsizemore/utility/releases/tag/v2.2.2) (6 days ago) |
+| [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. | [v3.0.1](https://github.com/ericsizemore/php-project-template/releases/tag/v3.0.1) (6 days ago) |
 | [ericsizemore/clock](https://github.com/ericsizemore/clock) | Yet another clock abstraction, implementing PSR-20. | [1.1.1](https://github.com/ericsizemore/clock/releases/tag/1.1.1) (1 week ago) |
 | [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. | [v6.0.1](https://github.com/ericsizemore/simple_counter/releases/tag/v6.0.1) (2 weeks ago) |
 | [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. | [2.0.0](https://github.com/ericsizemore/phpunit-coverage-check-action/releases/tag/2.0.0) (1 year ago) |
