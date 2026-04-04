@@ -19,8 +19,8 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (1 month ago) |
 | ⭐️ (3) [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. (1 month ago) |
 | ⭐️ (0) [ericsizemore/ipquery-php](https://github.com/ericsizemore/ipquery-php) | PHP library for ipquery.io, a free and performant ip address API. (1 month ago) |
-| ⭐️ (1) [ericsizemore/cloudflare-turnstile](https://github.com/ericsizemore/cloudflare-turnstile) | A PHP library for server-side validation of Cloudflare Turnstile challenges. This library is PSR-18 compatible and framework-agnostic. (1 month ago) |
-| ⭐️ (6) [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. (1 month ago) |
+| ⭐️ (1) [ericsizemore/cloudflare-turnstile](https://github.com/ericsizemore/cloudflare-turnstile) | A PHP library for server-side validation of Cloudflare Turnstile challenges. This library is PSR-18 compatible and framework-agnostic. (2 months ago) |
+| ⭐️ (6) [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. (2 months ago) |
 
 #### 🌱 My latest projects
 | Repo | Description |
