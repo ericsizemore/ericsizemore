@@ -11,8 +11,8 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 👷 Check out what I'm currently working on
 | Repo | Description |
 | --- | --- |
-| ⭐️ (26) [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. (5 days ago) |
-| ⭐️ (6) [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. (5 days ago) |
+| ⭐️ (26) [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. (6 days ago) |
+| ⭐️ (6) [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. (6 days ago) |
 | ⭐️ (32574) [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. (1 week ago) |
 | ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (1 week ago) |
 | ⭐️ (3) [ericsizemore/librariesio](https://github.com/ericsizemore/librariesio) | LibrariesIO - A simple API wrapper/client for the Libraries.io API. (1 week ago) |
@@ -67,7 +67,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🔨 My recent Pull Requests
 | Title | Repo |
 | --- | --- |
-| [(refactor) Refactor retryDelay function for delay calculation](https://github.com/ericsizemore/api/pull/570) | [ericsizemore/api](https://github.com/ericsizemore/api) (4 days ago) |
+| [(refactor) Refactor retryDelay function for delay calculation](https://github.com/ericsizemore/api/pull/570) | [ericsizemore/api](https://github.com/ericsizemore/api) (5 days ago) |
 | [Update GitHub Actions to use latest versions](https://github.com/ziadoz/awesome-php/pull/1441) | [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) (1 week ago) |
 | [Update FormatterTrait.php](https://github.com/ericsizemore/simple_counter/pull/235) | [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) (8 months ago) |
 | [Update Dates.php](https://github.com/ericsizemore/utility/pull/275) | [ericsizemore/utility](https://github.com/ericsizemore/utility) (8 months ago) |
