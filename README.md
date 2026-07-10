@@ -16,8 +16,8 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | ⭐️ (26) [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) | A simple PHP counter that counts your website visitors. (1 week ago) |
 | ⭐️ (0) [ericsizemore/ipquery-php](https://github.com/ericsizemore/ipquery-php) | PHP library for ipquery.io, a free and performant ip address API. (1 week ago) |
 | ⭐️ (1) [ericsizemore/phpunit-coverage-check-action](https://github.com/ericsizemore/phpunit-coverage-check-action) | Run PHPUnit Coverage Check (which checks the code coverage using the clover report of PHPUnit), as a GitHub action. (3 weeks ago) |
-| ⭐️ (6) [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. (3 weeks ago) |
-| ⭐️ (32603) [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. (4 weeks ago) |
+| ⭐️ (6) [ericsizemore/api](https://github.com/ericsizemore/api) | A simple wrapper/builder using Guzzle for base API clients. (4 weeks ago) |
+| ⭐️ (32603) [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | A curated list of amazingly awesome PHP libraries, resources and shiny things. (1 month ago) |
 | ⭐️ (1) [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) | This class implements a simple template engine that works by replacing text. (1 month ago) |
 | ⭐️ (4) [ericsizemore/utility](https://github.com/ericsizemore/utility) | Collection of various PHP utility functions. (1 month ago) |
 | ⭐️ (3) [ericsizemore/php-project-template](https://github.com/ericsizemore/php-project-template) | Simple template repository for PHP libraries/projects. (4 months ago) |
@@ -68,7 +68,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 | Title | Repo |
 | --- | --- |
 | [(refactor) Refactor retryDelay function for delay calculation](https://github.com/ericsizemore/api/pull/570) | [ericsizemore/api](https://github.com/ericsizemore/api) (3 weeks ago) |
-| [Update GitHub Actions to use latest versions](https://github.com/ziadoz/awesome-php/pull/1441) | [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) (4 weeks ago) |
+| [Update GitHub Actions to use latest versions](https://github.com/ziadoz/awesome-php/pull/1441) | [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) (1 month ago) |
 | [Update FormatterTrait.php](https://github.com/ericsizemore/simple_counter/pull/235) | [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) (9 months ago) |
 | [Update Dates.php](https://github.com/ericsizemore/utility/pull/275) | [ericsizemore/utility](https://github.com/ericsizemore/utility) (9 months ago) |
 | [feat: add storage interface and support for file or db based templates](https://github.com/ericsizemore/simple_tpl/pull/144) | [ericsizemore/simple_tpl](https://github.com/ericsizemore/simple_tpl) (1 year ago) |
