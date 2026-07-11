@@ -67,7 +67,7 @@ I ocassionally blog about PHP and open source, but mostly randomness.
 #### 🔨 My recent Pull Requests
 | Title | Repo |
 | --- | --- |
-| [(refactor) Refactor retryDelay function for delay calculation](https://github.com/ericsizemore/api/pull/570) | [ericsizemore/api](https://github.com/ericsizemore/api) (3 weeks ago) |
+| [(refactor) Refactor retryDelay function for delay calculation](https://github.com/ericsizemore/api/pull/570) | [ericsizemore/api](https://github.com/ericsizemore/api) (4 weeks ago) |
 | [Update GitHub Actions to use latest versions](https://github.com/ziadoz/awesome-php/pull/1441) | [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) (1 month ago) |
 | [Update FormatterTrait.php](https://github.com/ericsizemore/simple_counter/pull/235) | [ericsizemore/simple_counter](https://github.com/ericsizemore/simple_counter) (9 months ago) |
 | [Update Dates.php](https://github.com/ericsizemore/utility/pull/275) | [ericsizemore/utility](https://github.com/ericsizemore/utility) (9 months ago) |
