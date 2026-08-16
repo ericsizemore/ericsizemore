@@ -21,9 +21,25 @@ jobs:
       - run: markscribe -write README.md templates/README.md.tpl
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-      - uses: stefanzweifel/git-auto-commit-action@v7
+
+      - name: "Import GPG key"
+        id: import-gpg
+        uses: crazy-max/ghaction-import-gpg@v7
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.GPG_PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+          
+      - name: "Update generated README"
+        uses: stefanzweifel/git-auto-commit-action@v7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: "Update generated README"
-          branch: main
+           commit_author: "${{ steps.import-gpg.outputs.name }} <${{ steps.import-gpg.outputs.email }}>"
+           commit_user_name: ${{ steps.import-gpg.outputs.name }}
+           commit_user_email: ${{ steps.import-gpg.outputs.email }}
+           commit_message: 'Update generated README'
+           commit_options: '-S --amend --no-edit'
+           push_options: '--force'
+           skip_fetch: true
